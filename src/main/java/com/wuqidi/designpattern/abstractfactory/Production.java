@@ -1,4 +1,4 @@
-package com.wuqidi.designpattern;
+package com.wuqidi.designpattern.abstractfactory;
 
 /**
  * <dl>

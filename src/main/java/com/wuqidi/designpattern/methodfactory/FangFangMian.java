@@ -1,7 +1,7 @@
 package com.wuqidi.designpattern.methodfactory;
 
 
-import com.wuqidi.designpattern.Production;
+import com.wuqidi.designpattern.abstractfactory.Production;
 
 /**
  * <dl>

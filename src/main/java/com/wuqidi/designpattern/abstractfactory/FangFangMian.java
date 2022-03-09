@@ -1,8 +1,6 @@
 package com.wuqidi.designpattern.abstractfactory;
 
 
-import com.wuqidi.designpattern.Production;
-
 /**
  * <dl>
  * <dt>Description：</dt>

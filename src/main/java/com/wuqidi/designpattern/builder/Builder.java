@@ -1,6 +1,6 @@
 package com.wuqidi.designpattern.builder;
 
-import com.wuqidi.designpattern.Production;
+import com.wuqidi.designpattern.abstractfactory.Production;
 
 /**
  * <dl>
