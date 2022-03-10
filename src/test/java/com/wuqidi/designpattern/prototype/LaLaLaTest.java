@@ -19,7 +19,7 @@ class LaLaLaTest {
     void testClone() throws Exception{
         String[] ss = new String[]{"a","b"};
         LaLaLa la = LaLaLa.builder()
-                .arr(ss).age(123).mm(new Long(123123L)).name("泥猴桃")
+                .arr(ss).age(123).mm(123123L).name("泥猴桃")
                 .build();
         System.out.println(la);
 
